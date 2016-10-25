@@ -9,7 +9,8 @@ Make a shared state AJAX drawing program
 
 Contributors / Licensing
 ========================
+Colloborator: Brandon Williams
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, Brandon Williams, Peter Sterling
 
 
