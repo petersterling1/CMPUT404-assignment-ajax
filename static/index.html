@@ -41,7 +41,9 @@ function sendJSONXMLHTTPRequest(url, objects, callback) {
                     //XXX: parse some JSON from the request!
                     //XXX: Pass the data to the callback!
 					
-					callback(JSON.parse(xhr.responseText));
+					if (callback != null) {
+						callback(JSON.parse(xhr.responseText));
+					}
 					
                 }
             } 
